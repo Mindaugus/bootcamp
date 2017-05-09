@@ -1,8 +1,4 @@
-float: left !important;
-float: left !important;
-float: left !important;
-float: left !important;
-IMPOOOOOOOORTANT
+floating is not important;
 
 
 I <3 Vilnius Coding School!
